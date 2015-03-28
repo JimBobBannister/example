@@ -1,0 +1,19 @@
+{
+  "name": "java-angularjs-seed",
+  "version": "1.0.0",
+  "description": "example project for maven java and angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start test/resources/karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JimBobBannister/example"
+  },
+  "author": "Jim Bannister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimBobBannister/example/issues"
+  },
+  "homepage": "https://github.com/JimBobBannister/example"
+}
